@@ -19,5 +19,4 @@
     <enableUploadFilesOnAttachments>false</enableUploadFilesOnAttachments>
     <setValidContentTypeForAtchDocDownload>false</setValidContentTypeForAtchDocDownload>
     <skipContentAssetTriggers>false</skipContentAssetTriggers>
-    <skipContentAssetTriggersOnDeploy>true</skipContentAssetTriggersOnDeploy>
 </ContentSettings>

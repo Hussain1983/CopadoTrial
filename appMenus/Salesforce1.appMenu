@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AppMenu xmlns="http://soap.sforce.com/2006/04/metadata">
     <appMenuItems>
-        <name>EinsteinInsights</name>
-        <type>StandardAppMenuItem</type>
+        <name>MobileLanding</name>
+        <type>CustomTab</type>
     </appMenuItems>
     <appMenuItems>
         <name>Feed</name>
@@ -10,6 +10,10 @@
     </appMenuItems>
     <appMenuItems>
         <name>MyDay</name>
+        <type>StandardAppMenuItem</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>News</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
@@ -29,14 +33,6 @@
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
-        <name>People</name>
-        <type>StandardAppMenuItem</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Groups</name>
-        <type>StandardAppMenuItem</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>Reports</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
@@ -45,15 +41,11 @@
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
-        <name>ProcessInstanceWorkitem</name>
+        <name>People</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
-        <name>PendingInterviews</name>
-        <type>StandardAppMenuItem</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>OnlineSalesHome</name>
+        <name>Groups</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
 </AppMenu>

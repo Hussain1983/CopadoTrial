@@ -2,7 +2,7 @@
 <ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>hshaikh@copado.com.playground</sharedTo>
+        <sharedTo>hshaikh-6edf@force.com</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <name>Copado Permissioner</name>

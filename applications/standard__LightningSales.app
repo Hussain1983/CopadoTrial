@@ -23,6 +23,10 @@
     <tabs>standard-Event</tabs>
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-Case</tabs>
+    <tabs>standard-News</tabs>
     <tabs>standard-Forecasting3</tabs>
+    <tabs>standard-Quote</tabs>
+    <tabs>standard-LightningQuickText</tabs>
+    <tabs>MobileLanding</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

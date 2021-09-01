@@ -4,56 +4,51 @@
     <standardValue>
         <fullName>Advertisement</fullName>
         <default>false</default>
-        <label>Publicidad</label>
+        <label>Advertisement</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Customer Event</fullName>
+        <default>false</default>
+        <label>Customer Event</label>
     </standardValue>
     <standardValue>
         <fullName>Employee Referral</fullName>
         <default>false</default>
-        <label>Referencia del empleado</label>
+        <label>Employee Referral</label>
     </standardValue>
     <standardValue>
-        <fullName>External Referral</fullName>
+        <fullName>Google AdWords</fullName>
         <default>false</default>
-        <label>Referencia externa</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Partner</fullName>
-        <default>false</default>
-        <label>Socio</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Public Relations</fullName>
-        <default>false</default>
-        <label>Relaciones públicas</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Seminar - Internal</fullName>
-        <default>false</default>
-        <label>Seminario - Interno</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Seminar - Partner</fullName>
-        <default>false</default>
-        <label>Seminario - Socio</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Trade Show</fullName>
-        <default>false</default>
-        <label>Feria</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Web</fullName>
-        <default>false</default>
-        <label>Web</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Word of mouth</fullName>
-        <default>false</default>
-        <label>Por comentarios de terceros</label>
+        <label>Google AdWords</label>
     </standardValue>
     <standardValue>
         <fullName>Other</fullName>
         <default>false</default>
-        <label>Otros</label>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Partner</fullName>
+        <default>false</default>
+        <label>Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Purchased List</fullName>
+        <default>false</default>
+        <label>Purchased List</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Trade Show</fullName>
+        <default>false</default>
+        <label>Trade Show</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Webinar</fullName>
+        <default>false</default>
+        <label>Webinar</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Website</fullName>
+        <default>false</default>
+        <label>Website</label>
     </standardValue>
 </StandardValueSet>

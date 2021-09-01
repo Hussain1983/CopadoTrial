@@ -2,10 +2,10 @@
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
     <defaultLandingTab>copado__Pipeline_Manager</defaultLandingTab>
     <description>Setup &amp; Manage Copado Pipelines and Deployments</description>
-    <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Copado Pipeline Manager</label>
+    <logo>copado__Copado/copado__Copado_Logo.png</logo>
     <tabs>copado__Pipeline_Manager</tabs>
     <tabs>copado__Deployment_Flow__c</tabs>
     <tabs>copado__Snapshot_Difference__c</tabs>

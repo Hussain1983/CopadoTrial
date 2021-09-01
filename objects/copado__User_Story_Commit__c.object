@@ -155,6 +155,19 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
+        <fullName>Commit_Length_Minutes__c</fullName>
+        <externalId>false</externalId>
+        <formula>(DATETIMEVALUE(CreatedDate) - copado__Snapshot_Commit__r.copado__Commit_Date__c) * 24 * 60</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Commit Length (Minutes)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>1</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>copado__External_Id__c</fullName>
         <caseSensitive>false</caseSensitive>
         <deprecated>false</deprecated>
